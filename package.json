@@ -1,0 +1,26 @@
+{
+    "name": "stickerbot",
+    "version": "1.4.0",
+    "description": "StickerBOT by DrelezTM",
+    "main": "index.js",
+    "scripts": {
+      "start": "node ."
+    },
+    "keywords": [
+      "nodejs",
+      "whatsapp-web.js",
+      "stickerbot",
+      "dreleztm"
+    ],
+    "author": "DrelezTM",
+    "license": "MIT",
+    "dependencies": {
+      "colors": "^1.4.0",
+      "fs": "^0.0.1-security",
+      "moment-timezone": "^0.5.37",
+      "nodemailer": "^6.9.13",
+      "qrcode-terminal": "^0.12.0",
+      "whatsapp-web.js": "^1.23.0"
+    }
+  }
+  
